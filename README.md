@@ -6,3 +6,4 @@ The main goal of this repository is to provide a series of working swift example
 
 ## Helpful Links
 - [Guided Tour of Swift](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.playground.zip) a zip file containg a Swift Playground that runs through the basic conepts interactively.
+- [Build Onto Your Device](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/WorkingwithTargets.html) When you are ready to test on a real device, simply plug your phone into your machine and follow these instructions.
