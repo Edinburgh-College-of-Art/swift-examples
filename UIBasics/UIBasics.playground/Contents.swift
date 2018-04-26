@@ -9,6 +9,10 @@
  `Editor -> Show Rendered Markup / Raw Markup`
  
  I would probably advise setting a shortcut via `Xcode -> Prefernces -> Key Bindings` and setting a shortcut for Show Rendered Markup, something like ⇧⎇⌘M should do the trick
+ 
+ You can also see the result of each line by clicking the small square boxes in the column to the right `->`
+ Setting a shortcut for this is a little trickier. See [Apple's custom keyboard shortcut guide for help](https://support.apple.com/kb/PH25377?locale=en_GB)
+ 
  - #### Live View
  You can see the 'Live View' of the code by showing the assistant editor in the View menu or by pressing ⎇⌘↩
  The Live you will behave as though the app is running and will update as you type.
