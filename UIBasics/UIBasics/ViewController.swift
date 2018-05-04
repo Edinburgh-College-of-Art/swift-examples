@@ -25,13 +25,13 @@ class ViewController: UIViewController
         let screenHeight = screenSize.height
         //--------------------------------------------------------------------------
         let label = UILabel()
-        let labelFrame = CGRect(x: 10, y: 30, width: screenWidth, height: 20)
+        let labelFrame = CGRect(x: 10, y: screenHeight/14, width: screenWidth, height: 20)
         label.frame = labelFrame
         label.text = "Hello, This slider does not do anything"
         label.textColor = .purple
         //--------------------------------------------------------------------------
         let slider = UISwitch()
-        let sliderFrame = CGRect(x: screenWidth-100, y: 25, width: 0, height: 0)
+        let sliderFrame = CGRect(x: screenWidth/2-20, y: screenHeight/8, width: 0, height: 0)
         slider.frame = sliderFrame
         slider.tintColor = .purple
         slider.onTintColor = .magenta
